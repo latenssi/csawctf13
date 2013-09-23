@@ -1,0 +1,84 @@
+[{
+    "domain": "128.238.66.224",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "widget_tracker",
+    "path": "/",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "YToyOntpOjA7aTo2OTYzO2k6MTtpOjcwNTk7fQ%3D%3D"
+},
+{
+    "domain": "128.238.66.224",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "widget_validate",
+    "path": "/",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "dfb91e768c3fb8f12ac1ddd0dbd058f944927cceb574d3df9e2563f3a112cbf998e9887b8fac296229747aeac065850e312614a9c5e685111aaced0288ab070c"
+}]
+
+[{
+    "domain": "128.238.66.224",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "widget_tracker",
+    "path": "/",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "YTozOntpOjA7aTo2OTYzO2k6MTtpOjcwNTk7aToyO2k6NzE3ODt9"
+},
+{
+    "domain": "128.238.66.224",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "widget_validate",
+    "path": "/",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "3b2ad95e2cf822afb2d5af12497c6f615a2bfce6be8f78ba73cf575ebaa6147d045dafe9e7746feb2faf4b10fa3f9e6c651b0ce5e18090cb15149d15d6f51417"
+}]
+
+[{
+    "domain": "128.238.66.224",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "widget_tracker",
+    "path": "/",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "YTo1OntpOjA7aTo2OTYzO2k6MTtpOjcwNTk7aToyO2k6NzE3ODtpOjM7aTo3MTg0O2k6NDtpOjcxODU7fQ%3D%3D"
+},
+{
+    "domain": "128.238.66.224",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "widget_validate",
+    "path": "/",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "d6f140a5a7b1bfc5fcedbe13f755ec81ccb7b9b6bc1c568019785a2192008e862dcd2482ed0a15c83a91a17cd7c5e0fef85accacdc6cfd7072b8707a08feb7c6"
+}]
+
+a:6:{i:0;i:6963;i:1;i:7059;i:2;i:7178;i:3;i:7184;i:4;i:7185;i:5;i:1;}
+YTo2OntpOjA7aTo2OTYzO2k6MTtpOjcwNTk7aToyO2k6NzE3ODtpOjM7aTo3MTg0O2k6NDtpOjcxODU7aTo1O2k6MTt9
+b95b7006fc9dfa16c244b158c611b7d107e241b8778932a0041e2264a1c791a8e1b11a9200fcac87efc27d18b2ef0691774d73bacd6afe24446739b3ddccb7ec
+
+a:7:{i:0;i:6963;i:1;i:7059;i:2;i:7178;i:3;i:7184;i:4;i:7185;i:5;i:1;i:6;i:0;}
+YTo3OntpOjA7aTo2OTYzO2k6MTtpOjcwNTk7aToyO2k6NzE3ODtpOjM7aTo3MTg0O2k6NDtpOjcxODU7aTo1O2k6MTtpOjY7aTowO30%3D
+9798af2f585a62d87fd5528be6268e523371d40d029bda8a86dffa8006fcb253175231b3915eadf871583a4f4bd3d10f969fbac0d08ae0b0ee34217087fae453
+
+a:1:{i:0;i:*;}
+YToxOntpOjA7aToqO30%3D
+3435c3b4ebc43a709a14cb04f67a83e22de816cf77fe4b230d0f0e766b0c90cda23b107750f5393762319a3ef10843bd3dc7bfad6c7e5536f18b5f23c23d67ab
+
+a:1:{i:0;i:*;}
+YTowOntpOjA7aToqO30%3D
+ff6ce1fa2a8f8b6297acc3efd470645540aee3b2d1a9bda712af64f020c2d5626891c42089a773a91ca192f522ec7138a3c730f6d4ba7088e944f933e5281f61
